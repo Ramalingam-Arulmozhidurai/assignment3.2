@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/0/070db4b6f0b04590af158cd6644a1584/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 070db4b6f0b04590af158cd6644a1584
+run_name: delicate-mare-537
+run_uuid: 070db4b6f0b04590af158cd6644a1584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712645800806
+status: 1
+tags: []
+user_id: ramalingam

@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/410441858085864865/67e6667f11664018b57b984ff1e00f37/artifacts
+end_time: 1712641284862
+entry_point_name: ''
+experiment_id: '410441858085864865'
+lifecycle_stage: active
+run_id: 67e6667f11664018b57b984ff1e00f37
+run_name: abundant-steed-153
+run_uuid: 67e6667f11664018b57b984ff1e00f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712641281752
+status: 3
+tags: []
+user_id: ramalingam

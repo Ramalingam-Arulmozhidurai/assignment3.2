@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/410441858085864865/9c7bc75a1c314d82bed05cde1bb08ece/artifacts
+end_time: 1712641304719
+entry_point_name: ''
+experiment_id: '410441858085864865'
+lifecycle_stage: active
+run_id: 9c7bc75a1c314d82bed05cde1bb08ece
+run_name: capable-vole-268
+run_uuid: 9c7bc75a1c314d82bed05cde1bb08ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712641302439
+status: 3
+tags: []
+user_id: ramalingam

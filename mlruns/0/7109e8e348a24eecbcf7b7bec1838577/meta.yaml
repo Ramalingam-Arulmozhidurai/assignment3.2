@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/0/7109e8e348a24eecbcf7b7bec1838577/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7109e8e348a24eecbcf7b7bec1838577
+run_name: omniscient-shrew-121
+run_uuid: 7109e8e348a24eecbcf7b7bec1838577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712645781699
+status: 1
+tags: []
+user_id: ramalingam

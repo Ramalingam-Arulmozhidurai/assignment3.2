@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/0/8c93bba1be4441489fe041df312b41df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c93bba1be4441489fe041df312b41df
+run_name: youthful-lamb-642
+run_uuid: 8c93bba1be4441489fe041df312b41df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712644835282
+status: 1
+tags: []
+user_id: ramalingam

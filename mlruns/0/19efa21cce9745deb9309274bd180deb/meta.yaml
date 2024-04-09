@@ -1,0 +1,15 @@
+artifact_uri: /home/ramalingam/assignment3.2/mlruns/0/19efa21cce9745deb9309274bd180deb/artifacts
+end_time: 1712645132257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19efa21cce9745deb9309274bd180deb
+run_name: ''
+run_uuid: 19efa21cce9745deb9309274bd180deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712645093498
+status: 3
+tags: []
+user_id: ramalingam
